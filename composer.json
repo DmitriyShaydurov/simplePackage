@@ -2,13 +2,16 @@
     "name": "shaydurov/test",
     "description": "simple composer package",
     "license": "MIT",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Dmitriy Shaydurov",
             "email": "dmitriy.shaydurov@gmail.com"
         }
     ],
-    "require": {},
+    "require": {
+        "php": ">=7.0"
+    },
     "autoload": {
         "psr-4": {
             "mySpace\\": ""
