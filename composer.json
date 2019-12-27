@@ -1,0 +1,17 @@
+{
+    "name": "shaydurov/test",
+    "description": "simple composer package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dmitriy Shaydurov",
+            "email": "dmitriy.shaydurov@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "mySpace\\": ""
+        }
+    }
+}

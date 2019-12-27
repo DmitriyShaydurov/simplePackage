@@ -1,0 +1,1 @@
+Test package to place to https://packagist.org/
