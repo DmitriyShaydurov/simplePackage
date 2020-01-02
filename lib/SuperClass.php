@@ -1,5 +1,5 @@
 <?php
-namespace mySpace\lib;
+namespace shaydurov\lib;
 
 class SuperClass
 {

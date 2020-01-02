@@ -2,7 +2,7 @@
     "name": "shaydurov/test",
     "description": "simple composer package",
     "license": "MIT",
-    "minimum-stability": "dev-master",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Dmitriy Shaydurov",
@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "mySpace\\": ""
+            "shaydurov\\": ""
         }
     }
 }
