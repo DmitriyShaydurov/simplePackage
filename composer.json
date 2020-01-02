@@ -2,6 +2,7 @@
     "name": "shaydurov/test",
     "description": "simple composer package",
     "license": "MIT",
+    "minimum-stability": "dev",
     "version": "1.0",
     "authors": [
         {
